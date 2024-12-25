@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NOTEMUTE</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="firstname">First name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="login1">Login</string>
+    <string name="logout">Logout</string>
+    <string name="hello">hello</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>Hindi</item>
+        <item>Telugu</item>
+        <item>Tamil</item>
+        <item>Kannada</item>
+    </string-array>
+    <string name="select_language_prompt">Select Language</string>
+
+</resources>

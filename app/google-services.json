@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532730836487",
+    "project_id": "digital-recognition-master",
+    "storage_bucket": "digital-recognition-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532730836487:android:82294349f4eff0126b5ca2",
+        "android_client_info": {
+          "package_name": "com.sunayanpradhan.digitalinkrecognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8Wd-Q24VAEudzaeoM9olTohqK5BMAkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
